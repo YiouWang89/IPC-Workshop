@@ -1,0 +1,4 @@
+﻿1>------ Build started: Project: W05_inlab, Configuration: Debug Win32 ------
+1>W05_inlabc.cpp
+1>W05_inlab.vcxproj -> \\Mac\Home\Desktop\New Folder\IPC144\WS05\in_lab\W05_inlab\Debug\W05_inlab.exe
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========

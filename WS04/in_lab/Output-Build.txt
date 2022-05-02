@@ -1,0 +1,4 @@
+﻿1>------ Build started: Project: in_lab, Configuration: Debug Win32 ------
+1>temps2.c
+1>in_lab.vcxproj -> \\Mac\Home\Desktop\New Folder\IPC144\WS04\in_lab\Debug\in_lab.exe
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========

@@ -1,0 +1,9 @@
+For workshop2, I feel a little bit difficult compared with workshop1. In_lab part is OK, but In_home part it took me for a while to write the code.
+
+I am an International student, so the interesting part is to learn Canadian money, Lonnies, Quaeters etc. The most difficult part for me is to figure out how to round. When I wrote In_home part, required Pennies was 0, it took me a long time to find out how to round and get the right output 1 pennies.
+
+I believe it is a best practice to convert floating-point to integers, watching instruction videos and practice by myself is different. The value for Lonnies or Quaeters are floating-point, but the number of them are integers, so this workshop makes me get more familiar with convert different data type by asking number of coins and balance.
+
+Using modulus operator makes code short and much more readable. For example, in the code, I can use modulus operator to get how many pennies I need, but when I need balance owing, I have to write a long expression include subtraction multiplication to get the balance.
+
+This workshop is very helpful. Thank you, professor.

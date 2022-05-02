@@ -1,0 +1,7 @@
+For workshop3_inlab, I didn't use pseudocode to help me write code. However, It took me time to understand and become more clear for the loop. Expecially when one loop nest in an other one. When I came to workshop3_home, I didn't use psedocode at first, I choose to write the code directly, but I can't got the output what I want. So I back to pseudocode, use pseudocode help me clarity the process. I believe when there is a project, plan ahead really helpful. It go though all the process, so I know how many variable I need to declare, what function I may need. I will try to do pseudocode first everytime.
+
+In workshop3_inlab and workshop3_home, I used both 'for' and 'while' iteration constructs. I use 'for' to manage the variable i and the process repeat the time I need. Using 'while' to manage when the condition is true, get out from 'for' loop and give a different action.
+
+I used both the given value and random value to test my solution, and two different ways to debug. The first debug method is to write down the value each line on TextEdit, but after 3 times I was lost, so I change it to  breaking point, I find it is much more helpful.
+
+I wrote the code ' for ( i=0; i<= NUM; i++) { if a[i] > a[i+1]?........}', the output of the result is always wrong, I was upset and anxious, because I could't find the error. After I used the breaking point, it helps me to realized that i can't equal to NUM, because I initialized array a[NUM].
